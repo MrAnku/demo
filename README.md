@@ -1,3 +1,3 @@
 # demo
 this is my first repositary
-auther =  ankit kumar kewat
+auther =  ankit kumar
